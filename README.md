@@ -16,3 +16,5 @@ El script proporciona una interfaz de línea de comandos simple con opciones cla
 
 Mediante su diseño modular y eficiente, este script ofrece una forma rápida y sencilla de explorar y gestionar los sistemas operativos dentro de una red local.
 
+![image](https://github.com/S4njer/OS_Checker/assets/125299897/bd70c898-c593-4570-ac18-8bf21e215aaf)
+
