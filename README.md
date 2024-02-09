@@ -18,3 +18,4 @@ Mediante su diseño modular y eficiente, este script ofrece una forma rápida y 
 
 ![image](https://github.com/S4njer/OS_Checker/assets/125299897/bd70c898-c593-4570-ac18-8bf21e215aaf)
 
+Basado en el script whichSystem desarrollado por S4vitar
